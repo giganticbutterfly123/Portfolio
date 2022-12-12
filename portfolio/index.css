@@ -48,6 +48,10 @@ body .container .card:nth-child(3) .box .content a {
   background: white;
 }
 
+body .container .card:nth-child(4) .box .content a {
+  background: white;
+}
+
 body .container .card .box {
   position: absolute;
   top: 20px;
@@ -244,7 +248,9 @@ body .container .card .box .content a:hover {
       text-align: left;
     }
   }
-p {
+
+
+  p {
     font-family: avenir;
     font-size: 30px;
 }
